@@ -1,2 +1,3 @@
 # Autonomous-Robot-Navigation
 Demonstrates how a robot would use an A* search method to navigate through a virtual environment containing obstacles
+I've created a real-world problem that involves a robot navigating in a dynamic environment. The robot needs to move from its start point (initial state) to an end state (goal state) using the A* search algorithm.  The A* Search Algorithm is an optimal and efficient method for solving pathfinding problems. When seeking the shortest path between a starting point and a goal, A* is often the best choice due to its versatility and robustness (What is A Search A * Algorithm, 2024). The robot’s journey to the goal must navigate through some obstacles.  
